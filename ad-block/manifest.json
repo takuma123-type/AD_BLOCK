@@ -1,0 +1,12 @@
+{
+  "name": "広告ブロック",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Add mosaic to ads",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
