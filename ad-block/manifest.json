@@ -2,7 +2,7 @@
   "name": "広告ブロック",
   "version": "1.0.0",
   "manifest_version": 3,
-  "description": "Add mosaic to ads",
+  "description": "これはWEBサイトの広告をブロックする拡張機能です。",
   "content_scripts": [
     {
       "matches": ["*://*/*"],
