@@ -17,3 +17,5 @@
 
   - 最後の部分：hideAds 関数を呼び出し、ページ上のすべての広告を初期に非表示にします。
     setInterval 関数を使い、100 ミリ秒ごとに hideAds 関数を繰り返し実行します。これにより、新たに読み込まれる広告も非表示にできます。
+
+- 参考文献 : https://qiita.com/TBjustice/items/41098eabcdf2b1caa48b
